@@ -1,6 +1,6 @@
-# Diablo 2 Cheat Sheet
+# Diablo 2 Info Sheet
 
-* [Cheat Sheet](https://htmlpreview.github.io/?https://github.com/Michaelangel007/d2_cheat_sheet/blob/master/index.html)
+* [Info Sheet](https://htmlpreview.github.io/?https://github.com/Michaelangel007/d2_cheat_sheet/blob/master/index.html)
 
 # QoL Features
 
